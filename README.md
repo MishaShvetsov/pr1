@@ -4,14 +4,14 @@
 После установки нужных нам программ захордим в коренную папку приложения pr-app, нажимаем правой кнопкой мыши по пустому полю папки.
 В выпавшем окне выбираем пункт "Git Bash Here"** 
 
-![](https://imgur.com/a/1rcEzd9)
+![](https://i.imgur.com/i9A5s6L.png)
 
 
 **После чего в командной строке прописываем** _npm start_ 
 
-![](https://imgur.com/a/GEsDaIJ)
+![](https://i.imgur.com/e1PIUga.png)
 
 
 **Запустится программа** 
 
-![](https://imgur.com/a/AQzJi0C)
+![](https://i.imgur.com/V7sgh5N.png)
