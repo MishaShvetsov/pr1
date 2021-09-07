@@ -12,6 +12,6 @@
 ![](https://imgur.com/a/GEsDaIJ)
 
 
-**Запуститься программа** 
+**Запустится программа** 
 
 ![](https://imgur.com/a/AQzJi0C)
